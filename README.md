@@ -1,6 +1,6 @@
 # Space_Invaders
 
-Unity project folder
+Unity project folder.
 
 Press `A` `D` or `←` `→` to control the spaceship moving; press `SPACE` to fire.
 
